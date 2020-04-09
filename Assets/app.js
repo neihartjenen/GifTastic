@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    var topics = ['anamaniacs', 'heman', 'duck tales', 'tmnt', 'rugrats', 'doug', 'simpsons', 'talespin'];
+    var topics = ['Rick and Morty', 'Toy Story', 'Family Guy','Rugrats', 'Rocket Power', 'Simpsons', 'Codename: Kids Next Door'];
 
     function buttonExpress(){
         $('#buttonsView').empty();
